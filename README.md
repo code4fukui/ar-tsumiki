@@ -1,5 +1,7 @@
 # AR Tsumiki
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 AR Tsumiki is a three.js-based augmented reality application that allows users to interact with virtual building blocks in their physical environment.
 
 ## Demo
