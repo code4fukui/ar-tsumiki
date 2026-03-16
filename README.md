@@ -20,4 +20,4 @@ The application requires a modern web browser with WebXR support, such as the la
 To use AR Tsumiki, simply open the demo link in a supported web browser on your mobile device. The application will prompt you to allow camera access, and you can then start interacting with the virtual building blocks in your physical environment.
 
 ## License
-AR Tsumiki is released under the MIT License.
+MIT License — see [LICENSE](LICENSE).

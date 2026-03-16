@@ -1,6 +1,6 @@
 # AR Tsumiki
 
-AR Tsumiki は、ユーザーが物理空間でバーチャルなブロックとインタラクションできるWebベースのAR(拡張現実)アプリケーションです。Three.jsを利用して開発されています。
+AR Tsumikiは、Three.jsを利用して開発されたWebベースのAR(拡張現実)アプリケーションです。ユーザーが物理空間でバーチャルなブロックとインタラクションできることが特徴です。
 
 ## デモ
 [デモページ](https://code4fukui.github.io/ar-tsumiki/)で試用できます。
